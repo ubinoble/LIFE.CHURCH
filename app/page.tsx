@@ -48,10 +48,12 @@ export default function Home() {
                        meaningful life? Let’s find out in our new series.
             </p>
             <div className="flex justify-start space-x-4">
-              <a href="#" className="p-3 px-6 pt-2 text-white bg-black hover:translate-y-[-2px] shadow-xl hover:shadow-xl hover:bg-gray-800 rounded-full baseline transition duration-300 ease-in-out hover:scale-105">
+              <a href="#" className="p-3 px-6 pt-2 text-white bg-black hover:translate-y-[-2px]
+                    shadow-xl hover:shadow-xl hover:bg-gray-800 rounded-full baseline transition duration-300 ease-in-out hover:scale-105">
                 Learn More
               </a>
-              <a href="#" className="p-3 px-6 pt-2 text-white bg-transparent border-2 border-white hover:translate-y-[-2px] shadow-xl hover:shadow-xl hover:bg-gray-800 rounded-full baseline transition duration-300 ease-in-out hover:scale-105">
+              <a href="#" className="p-3 px-6 pt-2 text-white bg-transparent border-2 border-white hover:translate-y-[-2px]
+                    shadow-xl hover:shadow-xl hover:bg-gray-800 rounded-full baseline transition duration-300 ease-in-out hover:scale-105">
                 Attend Life.Church Online
               </a>
             </div>
